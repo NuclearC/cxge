@@ -1,0 +1,2 @@
+[submodule "third-party/json"]
+	path = third-party/json
